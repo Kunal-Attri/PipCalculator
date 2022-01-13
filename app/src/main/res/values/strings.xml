@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pip Calculator</string>
+    <string name="div">÷</string>
+    <string name="inv">1/x</string>
+    <string name="sqrt">√</string>
+    <string name="square">x2</string>
+    <string name="fact">x!</string>
+    <string name="mul">×</string>
+</resources>
